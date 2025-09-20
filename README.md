@@ -1,6 +1,6 @@
 📱 Listing App
 📖 Overview
-The User Listing App is an Android application built using Kotlin and Jetpack Compose. It provides the following features:
+The User Listing App is an Android application built using Kotlin and Jetpack Compose. It provides the following features: 
 
 ✅ Fetches and displays a list of users from an external API.
 ✅ Allows users to search for specific users by name.
